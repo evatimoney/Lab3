@@ -1,0 +1,24 @@
+/* custom css rules */
+
+body{
+    text-align: center
+}
+
+.city-label{
+    font-size: 11px;
+    text-anchor: middle;
+    cursor: default;
+}
+
+h1{
+    color: #fff;
+}
+
+circle{
+    transition: .75s;
+}
+
+circle:hover{
+    transition: .75s;
+    fill: #000;
+}
